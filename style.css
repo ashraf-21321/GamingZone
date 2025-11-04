@@ -67,7 +67,7 @@ body {
 /* Hero Section */
 .hero {
   height: 100vh;
-  /* background: url('https://images.unsplash.com/photo-1616627985123-8b2bbbf7e1b7') center/cover no-repeat; */
+
   background: url('./images/images.png') center/cover no-repeat;
 
   display: flex;
@@ -132,7 +132,7 @@ body {
   .menu-icon {
     display: block;
   }
-
+  
   .nav-links {
     display: none;
     flex-direction: column;
@@ -431,3 +431,9 @@ body {
   font-size: 14px;
   color: #777;
 }
+
+
+
+
+
+
